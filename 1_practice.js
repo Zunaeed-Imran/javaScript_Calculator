@@ -7,7 +7,7 @@ document.getElementById('button').onclick = function () {
   a = parseInt(a);
 
   b = document.getElementById('B_input').value;
-  b = parseInt(a);
+  b = parseInt(b);
 
   c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
 
