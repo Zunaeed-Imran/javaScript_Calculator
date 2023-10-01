@@ -12,9 +12,10 @@
 - with taht we can also add, subtrac, devide, multiply number etc.
 - this program have css style and javascript file.
 
-3. Hypotenuse Calculator / or Right angle triangle
+3. Hypotenuse Calculator / or Hypotenuse of Right angle triangle
 
-- a2 + b2 = c2 (A square plus B square equals C square)
-- with that program we can calculate Hypotenuse or অতিভুজ; কর্ণ; অক্ষকর্ণ;
+- c = Math.sqrt(a*2 + b*2) (It's the formula)
+- with that program we can calculate Hypotenuse of right angle triangle or সমকোণ ত্রিভুজ|
 - [Learn from Bro Code](https://youtu.be/d8LrQ06j4w8?si=E9CWQmVxICpRhN-U)
 - we use javascript and HTML input value.
+- we call the button by button id.
